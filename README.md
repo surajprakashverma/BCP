@@ -156,6 +156,8 @@ This project uses the **Wisconsin Breast Cancer Diagnostic Dataset** from the UC
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
+## 🌐 Live Demo
+Try it out: **https://breast-cancer-prediction.onrender.com**
 
 ## 🌟 Show your support
 
